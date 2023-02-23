@@ -1,0 +1,95 @@
+-------------------------------- What is semaphore in c ?--------------------------------
+A semaphore is a data structure used to help threads work together without interfering with each other.
+
+---------------------------------How sem_open Work ?--------------------------------------------
+sem_open opens an existing semaphore or creates a new semaphore and opens it for further operations.
+The first parameter, name, is the name of the semaphore, coined as described earlier. The oflag can have O_CREAT,
+in which case, the semaphore is created if it does not already exist.
+
+-------------------------------- How sem_unlink work ?--------------------------------------------
+sem_unlink is a function that is used to remove a named semaphore. A named semaphore is a type of semaphore 
+that can be shared between different processes, and it has a name in the filesystem just like a file.
+The sem_unlink function removes the semaphore with the specified name. It has the following syntax:
+----------------------------------How sem_open work ? -------------------------------------------
+The sem_open function creates a new semaphore or opens an existing one with the specified name. It has the following syntax:
+sem_t *sem_open(const char *name, int oflag, mode_t mode, unsigned int value);
+
+The name parameter is a string that specifies the name of the semaphore to be created or opened. 
+The oflag parameter is a flag that determines the operation to be performed. It can be one of the following:
+
+    O_CREAT: Creates the semaphore if it doesn't already exist.
+    O_EXCL: When used with O_CREAT, causes the call to fail if the semaphore already exists.
+    O_RDWR: Opens the semaphore for both reading and writing.
+
+The mode parameter specifies the permissions for the semaphore if it is created. 
+It is only used when O_CREAT is specified in oflag. The value parameter is an initial value for the semaphore.
+
+The function returns a pointer to the semaphore if successful, or SEM_FAILED if an error occurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "_pthread_types.h": "c",
+        "_types.h": "c",
+        "bitset": "c"
+    }
+}

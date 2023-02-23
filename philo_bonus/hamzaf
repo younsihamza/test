@@ -1,0 +1,1673 @@
+532 ms philosopher 66 get first fork 
+532 ms philosopher 66 get second fork
+532 ms philosopher 66 eating
+1332 ms philosopher 66 put first fork
+1332 ms philosopher 66 put second fork
+1332 ms philosopher 66 sleeing
+1337 ms philosopher 66 dead--------------
+78 ms philosopher 14 get first fork 
+79 ms philosopher 14 get second fork
+79 ms philosopher 14 eating
+279 ms philosopher 14 put first fork
+279 ms philosopher 14 put second fork
+279 ms philosopher 14 sleeing
+525 ms philosopher 14 thinking
+525 ms philosopher 14 get first fork 
+525 ms philosopher 14 get second fork
+525 ms philosopher 14 eating
+1332 ms philosopher 14 put first fork
+1332 ms philosopher 14 put second fork
+1332 ms philosopher 14 sleeing
+1494 ms philosopher 14 dead--------------
+75 ms philosopher 13 get first fork 
+75 ms philosopher 13 get second fork
+75 ms philosopher 13 eating
+275 ms philosopher 13 put first fork
+275 ms philosopher 13 put second fork
+275 ms philosopher 13 sleeing
+517 ms philosopher 13 thinking
+517 ms philosopher 13 get first fork 
+517 ms philosopher 13 get second fork
+517 ms philosopher 13 eating
+1337 ms philosopher 13 put first fork
+1337 ms philosopher 13 put second fork
+1337 ms philosopher 13 sleeing
+1495 ms philosopher 13 dead--------------
+852 ms philosopher 96 get first fork 
+852 ms philosopher 96 get second fork
+852 ms philosopher 96 eating
+1426 ms philosopher 96 put first fork
+1426 ms philosopher 96 put second fork
+1426 ms philosopher 96 sleeing
+1628 ms philosopher 96 thinking
+1654 ms philosopher 96 dead--------------
+133 ms philosopher 32 get first fork 
+133 ms philosopher 32 get second fork
+133 ms philosopher 32 eating
+666 ms philosopher 32 put first fork
+666 ms philosopher 32 put second fork
+666 ms philosopher 32 sleeing
+867 ms philosopher 32 thinking
+868 ms philosopher 32 get first fork 
+870 ms philosopher 32 get second fork
+872 ms philosopher 32 eating
+1427 ms philosopher 32 put first fork
+1427 ms philosopher 32 put second fork
+1427 ms philosopher 32 sleeing
+1628 ms philosopher 32 thinking
+1666 ms philosopher 32 get first fork 
+1706 ms philosopher 32 dead--------------
+1 ms philosopher 5 get first fork 
+1 ms philosopher 5 get second fork
+1 ms philosopher 5 eating
+201 ms philosopher 5 put first fork
+201 ms philosopher 5 put second fork
+201 ms philosopher 5 sleeing
+404 ms philosopher 5 thinking
+405 ms philosopher 5 get first fork 
+413 ms philosopher 5 get second fork
+416 ms philosopher 5 eating
+728 ms philosopher 5 put first fork
+728 ms philosopher 5 put second fork
+728 ms philosopher 5 sleeing
+933 ms philosopher 5 thinking
+933 ms philosopher 5 get first fork 
+933 ms philosopher 5 get second fork
+933 ms philosopher 5 eating
+1734 ms philosopher 5 dead--------------
+1 ms philosopher 4 get first fork 
+1 ms philosopher 4 get second fork
+1 ms philosopher 4 eating
+201 ms philosopher 4 put first fork
+201 ms philosopher 4 put second fork
+201 ms philosopher 4 sleeing
+416 ms philosopher 4 thinking
+416 ms philosopher 4 get first fork 
+416 ms philosopher 4 get second fork
+416 ms philosopher 4 eating
+666 ms philosopher 4 put first fork
+666 ms philosopher 4 put second fork
+666 ms philosopher 4 sleeing
+916 ms philosopher 4 thinking
+916 ms philosopher 4 get first fork 
+916 ms philosopher 4 get second fork
+916 ms philosopher 4 eating
+1764 ms philosopher 4 dead--------------
+342 ms philosopher 59 get first fork 
+342 ms philosopher 59 get second fork
+342 ms philosopher 59 eating
+728 ms philosopher 59 put first fork
+728 ms philosopher 59 put second fork
+728 ms philosopher 59 sleeing
+933 ms philosopher 59 thinking
+933 ms philosopher 59 get first fork 
+933 ms philosopher 59 get second fork
+933 ms philosopher 59 eating
+1764 ms philosopher 59 put first fork
+1764 ms philosopher 59 put second fork
+1764 ms philosopher 59 sleeing
+1850 ms philosopher 59 dead--------------
+356 ms philosopher 61 get first fork 
+356 ms philosopher 61 get second fork
+356 ms philosopher 61 eating
+666 ms philosopher 61 put first fork
+666 ms philosopher 61 put second fork
+666 ms philosopher 61 sleeing
+916 ms philosopher 61 thinking
+916 ms philosopher 61 get first fork 
+916 ms philosopher 61 get second fork
+916 ms philosopher 61 eating
+1764 ms philosopher 61 put first fork
+1764 ms philosopher 61 put second fork
+1764 ms philosopher 61 sleeing
+1850 ms philosopher 61 dead--------------
+344 ms philosopher 60 get first fork 
+344 ms philosopher 60 get second fork
+344 ms philosopher 60 eating
+728 ms philosopher 60 put first fork
+728 ms philosopher 60 put second fork
+728 ms philosopher 60 sleeing
+933 ms philosopher 60 thinking
+933 ms philosopher 60 get first fork 
+933 ms philosopher 60 get second fork
+933 ms philosopher 60 eating
+1764 ms philosopher 60 put first fork
+1764 ms philosopher 60 put second fork
+1764 ms philosopher 60 sleeing
+1850 ms philosopher 60 dead--------------
+393 ms philosopher 65 get first fork 
+393 ms philosopher 65 get second fork
+393 ms philosopher 65 eating
+730 ms philosopher 65 put first fork
+730 ms philosopher 65 put second fork
+730 ms philosopher 65 sleeing
+933 ms philosopher 65 thinking
+933 ms philosopher 65 get first fork 
+933 ms philosopher 65 get second fork
+933 ms philosopher 65 eating
+1764 ms philosopher 65 put first fork
+1764 ms philosopher 65 put second fork
+1764 ms philosopher 65 sleeing
+1854 ms philosopher 65 dead--------------
+62 ms philosopher 8 get first fork 
+62 ms philosopher 8 get second fork
+62 ms philosopher 8 eating
+262 ms philosopher 8 put first fork
+262 ms philosopher 8 put second fork
+262 ms philosopher 8 sleeing
+517 ms philosopher 8 thinking
+517 ms philosopher 8 get first fork 
+517 ms philosopher 8 get second fork
+517 ms philosopher 8 eating
+728 ms philosopher 8 put first fork
+728 ms philosopher 8 put second fork
+728 ms philosopher 8 sleeing
+933 ms philosopher 8 thinking
+933 ms philosopher 8 get first fork 
+933 ms philosopher 8 get second fork
+933 ms philosopher 8 eating
+1764 ms philosopher 8 put first fork
+1764 ms philosopher 8 put second fork
+1764 ms philosopher 8 sleeing
+1963 ms philosopher 8 dead--------------
+591 ms philosopher 74 get first fork 
+591 ms philosopher 74 get second fork
+591 ms philosopher 74 eating
+1152 ms philosopher 74 put first fork
+1152 ms philosopher 74 put second fork
+1152 ms philosopher 74 sleeing
+1416 ms philosopher 74 thinking
+1416 ms philosopher 74 get first fork 
+1416 ms philosopher 74 get second fork
+1416 ms philosopher 74 eating
+2166 ms philosopher 74 put first fork
+2166 ms philosopher 74 put second fork
+2166 ms philosopher 74 sleeing
+2370 ms philosopher 74 thinking
+2421 ms philosopher 74 dead--------------
+107 ms philosopher 24 get first fork 
+107 ms philosopher 24 get second fork
+107 ms philosopher 24 eating
+542 ms philosopher 24 put first fork
+542 ms philosopher 24 put second fork
+542 ms philosopher 24 sleeing
+743 ms philosopher 24 thinking
+743 ms philosopher 24 get first fork 
+743 ms philosopher 24 get second fork
+743 ms philosopher 24 eating
+1166 ms philosopher 24 put first fork
+1166 ms philosopher 24 put second fork
+1166 ms philosopher 24 sleeing
+1416 ms philosopher 24 thinking
+1416 ms philosopher 24 get first fork 
+1416 ms philosopher 24 get second fork
+1416 ms philosopher 24 eating
+2166 ms philosopher 24 put first fork
+2166 ms philosopher 24 put second fork
+2166 ms philosopher 24 sleeing
+2370 ms philosopher 24 thinking
+2443 ms philosopher 24 dead--------------
+112 ms philosopher 27 get first fork 
+112 ms philosopher 27 get second fork
+112 ms philosopher 27 eating
+541 ms philosopher 27 put first fork
+541 ms philosopher 27 put second fork
+541 ms philosopher 27 sleeing
+742 ms philosopher 27 thinking
+742 ms philosopher 27 get first fork 
+742 ms philosopher 27 get second fork
+742 ms philosopher 27 eating
+1167 ms philosopher 27 put first fork
+1167 ms philosopher 27 put second fork
+1167 ms philosopher 27 sleeing
+1416 ms philosopher 27 thinking
+1416 ms philosopher 27 get first fork 
+1416 ms philosopher 27 get second fork
+1416 ms philosopher 27 eating
+2167 ms philosopher 27 put first fork
+2167 ms philosopher 27 put second fork
+2167 ms philosopher 27 sleeing
+2370 ms philosopher 27 thinking
+2453 ms philosopher 27 dead--------------
+124 ms philosopher 31 get first fork 
+124 ms philosopher 31 get second fork
+124 ms philosopher 31 eating
+666 ms philosopher 31 put first fork
+666 ms philosopher 31 put second fork
+666 ms philosopher 31 sleeing
+868 ms philosopher 31 thinking
+868 ms philosopher 31 get first fork 
+871 ms philosopher 31 get second fork
+872 ms philosopher 31 eating
+1337 ms philosopher 31 put first fork
+1337 ms philosopher 31 put second fork
+1337 ms philosopher 31 sleeing
+1538 ms philosopher 31 thinking
+1538 ms philosopher 31 get first fork 
+1538 ms philosopher 31 get second fork
+1538 ms philosopher 31 eating
+2457 ms philosopher 31 dead--------------
+133 ms philosopher 33 get first fork 
+133 ms philosopher 33 get second fork
+133 ms philosopher 33 eating
+666 ms philosopher 33 put first fork
+666 ms philosopher 33 put second fork
+666 ms philosopher 33 sleeing
+866 ms philosopher 33 thinking
+866 ms philosopher 33 get first fork 
+866 ms philosopher 33 get second fork
+867 ms philosopher 33 eating
+1337 ms philosopher 33 put first fork
+1337 ms philosopher 33 put second fork
+1337 ms philosopher 33 sleeing
+1538 ms philosopher 33 thinking
+1538 ms philosopher 33 get first fork 
+1538 ms philosopher 33 get second fork
+1538 ms philosopher 33 eating
+2432 ms philosopher 33 put first fork
+2433 ms philosopher 33 put second fork
+2433 ms philosopher 33 sleeing
+2463 ms philosopher 33 dead--------------
+161 ms philosopher 42 get first fork 
+161 ms philosopher 42 get second fork
+161 ms philosopher 42 eating
+542 ms philosopher 42 put first fork
+542 ms philosopher 42 put second fork
+542 ms philosopher 42 sleeing
+743 ms philosopher 42 thinking
+743 ms philosopher 42 get first fork 
+743 ms philosopher 42 get second fork
+743 ms philosopher 42 eating
+1152 ms philosopher 42 put first fork
+1152 ms philosopher 42 put second fork
+1152 ms philosopher 42 sleeing
+1416 ms philosopher 42 thinking
+1416 ms philosopher 42 get first fork 
+1416 ms philosopher 42 get second fork
+1416 ms philosopher 42 eating
+2166 ms philosopher 42 put first fork
+2166 ms philosopher 42 put second fork
+2166 ms philosopher 42 sleeing
+2370 ms philosopher 42 thinking
+2473 ms philosopher 42 dead--------------
+577 ms philosopher 73 get first fork 
+577 ms philosopher 73 get second fork
+577 ms philosopher 73 eating
+1152 ms philosopher 73 put first fork
+1152 ms philosopher 73 put second fork
+1152 ms philosopher 73 sleeing
+1416 ms philosopher 73 thinking
+1416 ms philosopher 73 get first fork 
+1416 ms philosopher 73 get second fork
+1416 ms philosopher 73 eating
+2180 ms philosopher 73 put first fork
+2180 ms philosopher 73 put second fork
+2180 ms philosopher 73 sleeing
+2381 ms philosopher 73 thinking
+2503 ms philosopher 73 dead--------------
+156 ms philosopher 41 get first fork 
+156 ms philosopher 41 get second fork
+156 ms philosopher 41 eating
+541 ms philosopher 41 put first fork
+541 ms philosopher 41 put second fork
+541 ms philosopher 41 sleeing
+742 ms philosopher 41 thinking
+742 ms philosopher 41 get first fork 
+742 ms philosopher 41 get second fork
+742 ms philosopher 41 eating
+1152 ms philosopher 41 put first fork
+1152 ms philosopher 41 put second fork
+1152 ms philosopher 41 sleeing
+1416 ms philosopher 41 thinking
+1416 ms philosopher 41 get first fork 
+1416 ms philosopher 41 get second fork
+1416 ms philosopher 41 eating
+2166 ms philosopher 41 put first fork
+2166 ms philosopher 41 put second fork
+2166 ms philosopher 41 sleeing
+2370 ms philosopher 41 thinking
+2504 ms philosopher 41 get first fork 
+2514 ms philosopher 41 dead--------------
+150 ms philosopher 38 get first fork 
+150 ms philosopher 38 get second fork
+150 ms philosopher 38 eating
+542 ms philosopher 38 put first fork
+542 ms philosopher 38 put second fork
+542 ms philosopher 38 sleeing
+742 ms philosopher 38 thinking
+742 ms philosopher 38 get first fork 
+742 ms philosopher 38 get second fork
+742 ms philosopher 38 eating
+1166 ms philosopher 38 put first fork
+1166 ms philosopher 38 put second fork
+1166 ms philosopher 38 sleeing
+1416 ms philosopher 38 thinking
+1416 ms philosopher 38 get first fork 
+1416 ms philosopher 38 get second fork
+1416 ms philosopher 38 eating
+2166 ms philosopher 38 put first fork
+2166 ms philosopher 38 put second fork
+2166 ms philosopher 38 sleeing
+2370 ms philosopher 38 thinking
+2504 ms philosopher 38 get first fork 
+2552 ms philosopher 38 dead--------------
+144 ms philosopher 37 get first fork 
+144 ms philosopher 37 get second fork
+144 ms philosopher 37 eating
+542 ms philosopher 37 put first fork
+542 ms philosopher 37 put second fork
+542 ms philosopher 37 sleeing
+742 ms philosopher 37 thinking
+742 ms philosopher 37 get first fork 
+742 ms philosopher 37 get second fork
+742 ms philosopher 37 eating
+1167 ms philosopher 37 put first fork
+1167 ms philosopher 37 put second fork
+1167 ms philosopher 37 sleeing
+1416 ms philosopher 37 thinking
+1416 ms philosopher 37 get first fork 
+1416 ms philosopher 37 get second fork
+1416 ms philosopher 37 eating
+2180 ms philosopher 37 put first fork
+2180 ms philosopher 37 put second fork
+2180 ms philosopher 37 sleeing
+2381 ms philosopher 37 thinking
+2512 ms philosopher 37 get first fork 
+2552 ms philosopher 37 dead--------------
+317 ms philosopher 54 get first fork 
+317 ms philosopher 54 get second fork
+317 ms philosopher 54 eating
+791 ms philosopher 54 put first fork
+791 ms philosopher 54 put second fork
+791 ms philosopher 54 sleeing
+991 ms philosopher 54 thinking
+991 ms philosopher 54 get first fork 
+991 ms philosopher 54 get second fork
+991 ms philosopher 54 eating
+1348 ms philosopher 54 put first fork
+1348 ms philosopher 54 put second fork
+1348 ms philosopher 54 sleeing
+1548 ms philosopher 54 thinking
+1548 ms philosopher 54 get first fork 
+1548 ms philosopher 54 get second fork
+1548 ms philosopher 54 eating
+2432 ms philosopher 54 put first fork
+2432 ms philosopher 54 put second fork
+2432 ms philosopher 54 sleeing
+2563 ms philosopher 54 dead--------------
+319 ms philosopher 55 get first fork 
+319 ms philosopher 55 get second fork
+319 ms philosopher 55 eating
+730 ms philosopher 55 put first fork
+730 ms philosopher 55 put second fork
+730 ms philosopher 55 sleeing
+933 ms philosopher 55 thinking
+933 ms philosopher 55 get first fork 
+933 ms philosopher 55 get second fork
+933 ms philosopher 55 eating
+1461 ms philosopher 55 put first fork
+1461 ms philosopher 55 put second fork
+1461 ms philosopher 55 sleeing
+1666 ms philosopher 55 thinking
+1764 ms philosopher 55 get first fork 
+1766 ms philosopher 55 get second fork
+1766 ms philosopher 55 eating
+2166 ms philosopher 55 put first fork
+2166 ms philosopher 55 put second fork
+2166 ms philosopher 55 sleeing
+2370 ms philosopher 55 thinking
+2504 ms philosopher 55 get first fork 
+2567 ms philosopher 55 dead--------------
+329 ms philosopher 57 get first fork 
+329 ms philosopher 57 get second fork
+329 ms philosopher 57 eating
+730 ms philosopher 57 put first fork
+730 ms philosopher 57 put second fork
+730 ms philosopher 57 sleeing
+933 ms philosopher 57 thinking
+933 ms philosopher 57 get first fork 
+933 ms philosopher 57 get second fork
+933 ms philosopher 57 eating
+1461 ms philosopher 57 put first fork
+1461 ms philosopher 57 put second fork
+1461 ms philosopher 57 sleeing
+1666 ms philosopher 57 thinking
+1764 ms philosopher 57 get first fork 
+1766 ms philosopher 57 get second fork
+1766 ms philosopher 57 eating
+2166 ms philosopher 57 put first fork
+2166 ms philosopher 57 put second fork
+2166 ms philosopher 57 sleeing
+2370 ms philosopher 57 thinking
+2504 ms philosopher 57 get first fork 
+2572 ms philosopher 57 dead--------------
+830 ms philosopher 93 get first fork 
+830 ms philosopher 93 get second fork
+830 ms philosopher 93 eating
+1439 ms philosopher 93 put first fork
+1439 ms philosopher 93 put second fork
+1439 ms philosopher 93 sleeing
+1639 ms philosopher 93 thinking
+1734 ms philosopher 93 get first fork 
+1765 ms philosopher 93 get second fork
+1765 ms philosopher 93 eating
+2166 ms philosopher 93 put first fork
+2166 ms philosopher 93 put second fork
+2166 ms philosopher 93 sleeing
+2370 ms philosopher 93 thinking
+2504 ms philosopher 93 get first fork 
+2587 ms philosopher 93 dead--------------
+803 ms philosopher 86 get first fork 
+803 ms philosopher 86 get second fork
+803 ms philosopher 86 eating
+1455 ms philosopher 86 put first fork
+1455 ms philosopher 86 put second fork
+1455 ms philosopher 86 sleeing
+1666 ms philosopher 86 thinking
+1764 ms philosopher 86 get first fork 
+1791 ms philosopher 86 get second fork
+1791 ms philosopher 86 eating
+2512 ms philosopher 86 put first fork
+2512 ms philosopher 86 put second fork
+2512 ms philosopher 86 sleeing
+2592 ms philosopher 86 dead--------------
+806 ms philosopher 88 get first fork 
+806 ms philosopher 88 get second fork
+806 ms philosopher 88 eating
+1459 ms philosopher 88 put first fork
+1459 ms philosopher 88 put second fork
+1459 ms philosopher 88 sleeing
+1660 ms philosopher 88 thinking
+1774 ms philosopher 88 get first fork 
+1791 ms philosopher 88 get second fork
+1791 ms philosopher 88 eating
+2504 ms philosopher 88 put first fork
+2504 ms philosopher 88 put second fork
+2504 ms philosopher 88 sleeing
+2592 ms philosopher 88 dead--------------
+65 ms philosopher 10 get first fork 
+65 ms philosopher 10 get second fork
+65 ms philosopher 10 eating
+265 ms philosopher 10 put first fork
+265 ms philosopher 10 put second fork
+265 ms philosopher 10 sleeing
+517 ms philosopher 10 thinking
+517 ms philosopher 10 get first fork 
+517 ms philosopher 10 get second fork
+517 ms philosopher 10 eating
+728 ms philosopher 10 put first fork
+728 ms philosopher 10 put second fork
+728 ms philosopher 10 sleeing
+933 ms philosopher 10 thinking
+933 ms philosopher 10 get first fork 
+933 ms philosopher 10 get second fork
+933 ms philosopher 10 eating
+1461 ms philosopher 10 put first fork
+1461 ms philosopher 10 put second fork
+1461 ms philosopher 10 sleeing
+1666 ms philosopher 10 thinking
+1764 ms philosopher 10 get first fork 
+1791 ms philosopher 10 get second fork
+1791 ms philosopher 10 eating
+2504 ms philosopher 10 put first fork
+2504 ms philosopher 10 put second fork
+2504 ms philosopher 10 sleeing
+2597 ms philosopher 10 dead--------------
+818 ms philosopher 91 get first fork 
+818 ms philosopher 91 get second fork
+818 ms philosopher 91 eating
+1451 ms philosopher 91 put first fork
+1451 ms philosopher 91 put second fork
+1451 ms philosopher 91 sleeing
+1655 ms philosopher 91 thinking
+1764 ms philosopher 91 get first fork 
+1765 ms philosopher 91 get second fork
+1765 ms philosopher 91 eating
+2166 ms philosopher 91 put first fork
+2166 ms philosopher 91 put second fork
+2166 ms philosopher 91 sleeing
+2370 ms philosopher 91 thinking
+2504 ms philosopher 91 get first fork 
+2602 ms philosopher 91 dead--------------
+841 ms philosopher 95 get first fork 
+841 ms philosopher 95 get second fork
+841 ms philosopher 95 eating
+1430 ms philosopher 95 put first fork
+1430 ms philosopher 95 put second fork
+1430 ms philosopher 95 sleeing
+1630 ms philosopher 95 thinking
+1734 ms philosopher 95 get first fork 
+1764 ms philosopher 95 get second fork
+1764 ms philosopher 95 eating
+2166 ms philosopher 95 put first fork
+2166 ms philosopher 95 put second fork
+2166 ms philosopher 95 sleeing
+2370 ms philosopher 95 thinking
+2504 ms philosopher 95 get first fork 
+2619 ms philosopher 95 dead--------------
+854 ms philosopher 97 get first fork 
+854 ms philosopher 97 get second fork
+854 ms philosopher 97 eating
+1348 ms philosopher 97 put first fork
+1348 ms philosopher 97 put second fork
+1348 ms philosopher 97 sleeing
+1548 ms philosopher 97 thinking
+1548 ms philosopher 97 get first fork 
+1548 ms philosopher 97 get second fork
+1548 ms philosopher 97 eating
+2422 ms philosopher 97 put first fork
+2422 ms philosopher 97 put second fork
+2422 ms philosopher 97 sleeing
+2620 ms philosopher 97 dead--------------
+0 ms philosopher 1 get first fork 
+0 ms philosopher 1 get second fork
+0 ms philosopher 1 eating
+200 ms philosopher 1 put first fork
+200 ms philosopher 1 put second fork
+200 ms philosopher 1 sleeing
+406 ms philosopher 1 thinking
+407 ms philosopher 1 get first fork 
+410 ms philosopher 1 get second fork
+411 ms philosopher 1 eating
+728 ms philosopher 1 put first fork
+728 ms philosopher 1 put second fork
+728 ms philosopher 1 sleeing
+933 ms philosopher 1 thinking
+933 ms philosopher 1 get first fork 
+933 ms philosopher 1 get second fork
+933 ms philosopher 1 eating
+1461 ms philosopher 1 put first fork
+1461 ms philosopher 1 put second fork
+1461 ms philosopher 1 sleeing
+1666 ms philosopher 1 thinking
+1764 ms philosopher 1 get first fork 
+1766 ms philosopher 1 get second fork
+1766 ms philosopher 1 eating
+2166 ms philosopher 1 put first fork
+2166 ms philosopher 1 put second fork
+2166 ms philosopher 1 sleeing
+2370 ms philosopher 1 thinking
+2504 ms philosopher 1 get first fork 
+2625 ms philosopher 1 dead--------------
+31 ms philosopher 6 get first fork 
+31 ms philosopher 6 get second fork
+31 ms philosopher 6 eating
+231 ms philosopher 6 put first fork
+231 ms philosopher 6 put second fork
+231 ms philosopher 6 sleeing
+507 ms philosopher 6 thinking
+507 ms philosopher 6 get first fork 
+507 ms philosopher 6 get second fork
+507 ms philosopher 6 eating
+730 ms philosopher 6 put first fork
+730 ms philosopher 6 put second fork
+730 ms philosopher 6 sleeing
+933 ms philosopher 6 thinking
+933 ms philosopher 6 get first fork 
+933 ms philosopher 6 get second fork
+933 ms philosopher 6 eating
+1764 ms philosopher 6 put first fork
+1764 ms philosopher 6 put second fork
+1764 ms philosopher 6 sleeing
+1964 ms philosopher 6 thinking
+1964 ms philosopher 6 get first fork 
+1964 ms philosopher 6 get second fork
+1964 ms philosopher 6 eating
+2666 ms philosopher 6 put first fork
+2666 ms philosopher 6 put second fork
+2666 ms philosopher 6 sleeing
+2771 ms philosopher 6 dead--------------
+62 ms philosopher 9 get first fork 
+62 ms philosopher 9 get second fork
+62 ms philosopher 9 eating
+262 ms philosopher 9 put first fork
+262 ms philosopher 9 put second fork
+262 ms philosopher 9 sleeing
+517 ms philosopher 9 thinking
+517 ms philosopher 9 get first fork 
+517 ms philosopher 9 get second fork
+517 ms philosopher 9 eating
+730 ms philosopher 9 put first fork
+730 ms philosopher 9 put second fork
+730 ms philosopher 9 sleeing
+933 ms philosopher 9 thinking
+933 ms philosopher 9 get first fork 
+933 ms philosopher 9 get second fork
+933 ms philosopher 9 eating
+1764 ms philosopher 9 put first fork
+1764 ms philosopher 9 put second fork
+1764 ms philosopher 9 sleeing
+1964 ms philosopher 9 thinking
+1964 ms philosopher 9 get first fork 
+1964 ms philosopher 9 get second fork
+1964 ms philosopher 9 eating
+2666 ms philosopher 9 put first fork
+2666 ms philosopher 9 put second fork
+2666 ms philosopher 9 sleeing
+2783 ms philosopher 9 dead--------------
+294 ms philosopher 47 get first fork 
+294 ms philosopher 47 get second fork
+294 ms philosopher 47 eating
+791 ms philosopher 47 put first fork
+791 ms philosopher 47 put second fork
+791 ms philosopher 47 sleeing
+1041 ms philosopher 47 thinking
+1041 ms philosopher 47 get first fork 
+1041 ms philosopher 47 get second fork
+1041 ms philosopher 47 eating
+1332 ms philosopher 47 put first fork
+1332 ms philosopher 47 put second fork
+1332 ms philosopher 47 sleeing
+1532 ms philosopher 47 thinking
+1532 ms philosopher 47 get first fork 
+1532 ms philosopher 47 get second fork
+1532 ms philosopher 47 eating
+1734 ms philosopher 47 put first fork
+1734 ms philosopher 47 put second fork
+1734 ms philosopher 47 sleeing
+1934 ms philosopher 47 thinking
+1934 ms philosopher 47 get first fork 
+1934 ms philosopher 47 get second fork
+1934 ms philosopher 47 eating
+2667 ms philosopher 47 put first fork
+2667 ms philosopher 47 put second fork
+2667 ms philosopher 47 sleeing
+2791 ms philosopher 47 dead--------------
+382 ms philosopher 64 get first fork 
+382 ms philosopher 64 get second fork
+382 ms philosopher 64 eating
+728 ms philosopher 64 put first fork
+728 ms philosopher 64 put second fork
+728 ms philosopher 64 sleeing
+933 ms philosopher 64 thinking
+933 ms philosopher 64 get first fork 
+933 ms philosopher 64 get second fork
+933 ms philosopher 64 eating
+1764 ms philosopher 64 put first fork
+1764 ms philosopher 64 put second fork
+1764 ms philosopher 64 sleeing
+1964 ms philosopher 64 thinking
+1964 ms philosopher 64 get first fork 
+1964 ms philosopher 64 get second fork
+1964 ms philosopher 64 eating
+2666 ms philosopher 64 put first fork
+2666 ms philosopher 64 put second fork
+2666 ms philosopher 64 sleeing
+2792 ms philosopher 64 dead--------------
+291 ms philosopher 45 get first fork 
+291 ms philosopher 45 get second fork
+291 ms philosopher 45 eating
+791 ms philosopher 45 put first fork
+791 ms philosopher 45 put second fork
+791 ms philosopher 45 sleeing
+992 ms philosopher 45 thinking
+992 ms philosopher 45 get first fork 
+992 ms philosopher 45 get second fork
+992 ms philosopher 45 eating
+1337 ms philosopher 45 put first fork
+1337 ms philosopher 45 put second fork
+1337 ms philosopher 45 sleeing
+1537 ms philosopher 45 thinking
+1537 ms philosopher 45 get first fork 
+1537 ms philosopher 45 get second fork
+1537 ms philosopher 45 eating
+1766 ms philosopher 45 put first fork
+1766 ms philosopher 45 put second fork
+1766 ms philosopher 45 sleeing
+1966 ms philosopher 45 thinking
+1966 ms philosopher 45 get first fork 
+1966 ms philosopher 45 get second fork
+1966 ms philosopher 45 eating
+2625 ms philosopher 45 put first fork
+2625 ms philosopher 45 put second fork
+2625 ms philosopher 45 sleeing
+2794 ms philosopher 45 dead--------------
+1218 ms philosopher 110 get first fork 
+1218 ms philosopher 110 get second fork
+1218 ms philosopher 110 eating
+1813 ms philosopher 110 put first fork
+1813 ms philosopher 110 put second fork
+1813 ms philosopher 110 sleeing
+2041 ms philosopher 110 thinking
+2041 ms philosopher 110 get first fork 
+2041 ms philosopher 110 get second fork
+2041 ms philosopher 110 eating
+2916 ms philosopher 110 put first fork
+2916 ms philosopher 110 put second fork
+2916 ms philosopher 110 sleeing
+2916 ms philosopher 110 dead--------------
+165 ms philosopher 43 get first fork 
+165 ms philosopher 43 get second fork
+165 ms philosopher 43 eating
+542 ms philosopher 43 put first fork
+542 ms philosopher 43 put second fork
+542 ms philosopher 43 sleeing
+742 ms philosopher 43 thinking
+742 ms philosopher 43 get first fork 
+742 ms philosopher 43 get second fork
+742 ms philosopher 43 eating
+1152 ms philosopher 43 put first fork
+1152 ms philosopher 43 put second fork
+1152 ms philosopher 43 sleeing
+1353 ms philosopher 43 thinking
+1353 ms philosopher 43 get first fork 
+1353 ms philosopher 43 get second fork
+1353 ms philosopher 43 eating
+1813 ms philosopher 43 put first fork
+1813 ms philosopher 43 put second fork
+1813 ms philosopher 43 sleeing
+2037 ms philosopher 43 thinking
+2037 ms philosopher 43 get first fork 
+2037 ms philosopher 43 get second fork
+2037 ms philosopher 43 eating
+2794 ms philosopher 43 put first fork
+2795 ms philosopher 43 put second fork
+2795 ms philosopher 43 sleeing
+2947 ms philosopher 43 dead--------------
+1544 ms philosopher 117 get first fork 
+1544 ms philosopher 117 get second fork
+1544 ms philosopher 117 eating
+2504 ms philosopher 117 put first fork
+2504 ms philosopher 117 put second fork
+2504 ms philosopher 117 sleeing
+2709 ms philosopher 117 thinking
+2916 ms philosopher 117 get first fork 
+3016 ms philosopher 117 dead--------------
+165 ms philosopher 44 get first fork 
+165 ms philosopher 44 get second fork
+165 ms philosopher 44 eating
+541 ms philosopher 44 put first fork
+541 ms philosopher 44 put second fork
+541 ms philosopher 44 sleeing
+742 ms philosopher 44 thinking
+742 ms philosopher 44 get first fork 
+742 ms philosopher 44 get second fork
+742 ms philosopher 44 eating
+1167 ms philosopher 44 put first fork
+1167 ms philosopher 44 put second fork
+1167 ms philosopher 44 sleeing
+1368 ms philosopher 44 thinking
+1368 ms philosopher 44 get first fork 
+1368 ms philosopher 44 get second fork
+1368 ms philosopher 44 eating
+1813 ms philosopher 44 put first fork
+1813 ms philosopher 44 put second fork
+1813 ms philosopher 44 sleeing
+2041 ms philosopher 44 thinking
+2041 ms philosopher 44 get first fork 
+2041 ms philosopher 44 get second fork
+2041 ms philosopher 44 eating
+2795 ms philosopher 44 put first fork
+2795 ms philosopher 44 put second fork
+2795 ms philosopher 44 sleeing
+2995 ms philosopher 44 thinking
+3053 ms philosopher 44 dead--------------
+121 ms philosopher 29 get first fork 
+121 ms philosopher 29 get second fork
+121 ms philosopher 29 eating
+542 ms philosopher 29 put first fork
+542 ms philosopher 29 put second fork
+542 ms philosopher 29 sleeing
+742 ms philosopher 29 thinking
+742 ms philosopher 29 get first fork 
+742 ms philosopher 29 get second fork
+742 ms philosopher 29 eating
+1167 ms philosopher 29 put first fork
+1167 ms philosopher 29 put second fork
+1167 ms philosopher 29 sleeing
+1367 ms philosopher 29 thinking
+1367 ms philosopher 29 get first fork 
+1367 ms philosopher 29 get second fork
+1367 ms philosopher 29 eating
+1813 ms philosopher 29 put first fork
+1813 ms philosopher 29 put second fork
+1813 ms philosopher 29 sleeing
+2037 ms philosopher 29 thinking
+2037 ms philosopher 29 get first fork 
+2037 ms philosopher 29 get second fork
+2037 ms philosopher 29 eating
+2795 ms philosopher 29 put first fork
+2795 ms philosopher 29 put second fork
+2795 ms philosopher 29 sleeing
+2995 ms philosopher 29 thinking
+3053 ms philosopher 29 dead--------------
+84 ms philosopher 15 get first fork 
+84 ms philosopher 15 get second fork
+84 ms philosopher 15 eating
+284 ms philosopher 15 put first fork
+284 ms philosopher 15 put second fork
+284 ms philosopher 15 sleeing
+532 ms philosopher 15 thinking
+532 ms philosopher 15 get first fork 
+532 ms philosopher 15 get second fork
+532 ms philosopher 15 eating
+732 ms philosopher 15 put first fork
+732 ms philosopher 15 put second fork
+732 ms philosopher 15 sleeing
+934 ms philosopher 15 thinking
+934 ms philosopher 15 get first fork 
+934 ms philosopher 15 get second fork
+934 ms philosopher 15 eating
+1135 ms philosopher 15 put first fork
+1135 ms philosopher 15 put second fork
+1135 ms philosopher 15 sleeing
+1336 ms philosopher 15 thinking
+1336 ms philosopher 15 get first fork 
+1336 ms philosopher 15 get second fork
+1336 ms philosopher 15 eating
+1854 ms philosopher 15 put first fork
+1854 ms philosopher 15 put second fork
+1854 ms philosopher 15 sleeing
+2055 ms philosopher 15 thinking
+2166 ms philosopher 15 get first fork 
+2166 ms philosopher 15 get second fork
+2166 ms philosopher 15 eating
+3053 ms philosopher 15 dead--------------
+86 ms philosopher 16 get first fork 
+86 ms philosopher 16 get second fork
+86 ms philosopher 16 eating
+286 ms philosopher 16 put first fork
+286 ms philosopher 16 put second fork
+286 ms philosopher 16 sleeing
+542 ms philosopher 16 thinking
+542 ms philosopher 16 get first fork 
+542 ms philosopher 16 get second fork
+542 ms philosopher 16 eating
+742 ms philosopher 16 put first fork
+742 ms philosopher 16 put second fork
+742 ms philosopher 16 sleeing
+1101 ms philosopher 16 thinking
+1101 ms philosopher 16 get first fork 
+1101 ms philosopher 16 get second fork
+1101 ms philosopher 16 eating
+1332 ms philosopher 16 put first fork
+1332 ms philosopher 16 put second fork
+1332 ms philosopher 16 sleeing
+1532 ms philosopher 16 thinking
+1532 ms philosopher 16 get first fork 
+1532 ms philosopher 16 get second fork
+1532 ms philosopher 16 eating
+1734 ms philosopher 16 put first fork
+1734 ms philosopher 16 put second fork
+1734 ms philosopher 16 sleeing
+1934 ms philosopher 16 thinking
+1934 ms philosopher 16 get first fork 
+1934 ms philosopher 16 get second fork
+1934 ms philosopher 16 eating
+2667 ms philosopher 16 put first fork
+2667 ms philosopher 16 put second fork
+2667 ms philosopher 16 sleeing
+2868 ms philosopher 16 thinking
+2916 ms philosopher 16 dead--------------
+65 ms philosopher 11 get first fork 
+65 ms philosopher 11 get second fork
+65 ms philosopher 11 eating
+265 ms philosopher 11 put first fork
+265 ms philosopher 11 put second fork
+265 ms philosopher 11 sleeing
+517 ms philosopher 11 thinking
+517 ms philosopher 11 get first fork 
+517 ms philosopher 11 get second fork
+517 ms philosopher 11 eating
+718 ms philosopher 11 put first fork
+718 ms philosopher 11 put second fork
+718 ms philosopher 11 sleeing
+919 ms philosopher 11 thinking
+919 ms philosopher 11 get first fork 
+919 ms philosopher 11 get second fork
+919 ms philosopher 11 eating
+1119 ms philosopher 11 put first fork
+1119 ms philosopher 11 put second fork
+1119 ms philosopher 11 sleeing
+1321 ms philosopher 11 thinking
+1321 ms philosopher 11 get first fork 
+1321 ms philosopher 11 get second fork
+1321 ms philosopher 11 eating
+1854 ms philosopher 11 put first fork
+1854 ms philosopher 11 put second fork
+1854 ms philosopher 11 sleeing
+2055 ms philosopher 11 thinking
+2166 ms philosopher 11 get first fork 
+2166 ms philosopher 11 get second fork
+2166 ms philosopher 11 eating
+3055 ms philosopher 11 dead--------------
+87 ms philosopher 17 get first fork 
+87 ms philosopher 17 get second fork
+87 ms philosopher 17 eating
+287 ms philosopher 17 put first fork
+287 ms philosopher 17 put second fork
+287 ms philosopher 17 sleeing
+541 ms philosopher 17 thinking
+541 ms philosopher 17 get first fork 
+541 ms philosopher 17 get second fork
+541 ms philosopher 17 eating
+741 ms philosopher 17 put first fork
+741 ms philosopher 17 put second fork
+741 ms philosopher 17 sleeing
+1101 ms philosopher 17 thinking
+1101 ms philosopher 17 get first fork 
+1101 ms philosopher 17 get second fork
+1101 ms philosopher 17 eating
+1332 ms philosopher 17 put first fork
+1332 ms philosopher 17 put second fork
+1332 ms philosopher 17 sleeing
+1532 ms philosopher 17 thinking
+1532 ms philosopher 17 get first fork 
+1532 ms philosopher 17 get second fork
+1532 ms philosopher 17 eating
+1734 ms philosopher 17 put first fork
+1734 ms philosopher 17 put second fork
+1734 ms philosopher 17 sleeing
+1934 ms philosopher 17 thinking
+1934 ms philosopher 17 get first fork 
+1934 ms philosopher 17 get second fork
+1934 ms philosopher 17 eating
+2667 ms philosopher 17 put first fork
+2667 ms philosopher 17 put second fork
+2667 ms philosopher 17 sleeing
+2868 ms philosopher 17 thinking
+3055 ms philosopher 17 dead--------------
+1157 ms philosopher 100 get first fork 
+1157 ms philosopher 100 get second fork
+1157 ms philosopher 100 eating
+1854 ms philosopher 100 put first fork
+1854 ms philosopher 100 put second fork
+1854 ms philosopher 100 sleeing
+2055 ms philosopher 100 thinking
+2166 ms philosopher 100 get first fork 
+2166 ms philosopher 100 get second fork
+2166 ms philosopher 100 eating
+3056 ms philosopher 100 put first fork
+3056 ms philosopher 100 put second fork
+3056 ms philosopher 100 sleeing
+3174 ms philosopher 100 dead--------------
+1154 ms philosopher 98 get first fork 
+1154 ms philosopher 98 get second fork
+1154 ms philosopher 98 eating
+1826 ms philosopher 98 put first fork
+1826 ms philosopher 98 put second fork
+1826 ms philosopher 98 sleeing
+2041 ms philosopher 98 thinking
+2054 ms philosopher 98 get first fork 
+2166 ms philosopher 98 get second fork
+2166 ms philosopher 98 eating
+3166 ms philosopher 98 put first fork
+3166 ms philosopher 98 put second fork
+3166 ms philosopher 98 sleeing
+3174 ms philosopher 98 dead--------------
+98 ms philosopher 20 get first fork 
+98 ms philosopher 20 get second fork
+98 ms philosopher 20 eating
+542 ms philosopher 20 put first fork
+542 ms philosopher 20 put second fork
+542 ms philosopher 20 sleeing
+742 ms philosopher 20 thinking
+742 ms philosopher 20 get first fork 
+742 ms philosopher 20 get second fork
+742 ms philosopher 20 eating
+1167 ms philosopher 20 put first fork
+1167 ms philosopher 20 put second fork
+1167 ms philosopher 20 sleeing
+1367 ms philosopher 20 thinking
+1367 ms philosopher 20 get first fork 
+1367 ms philosopher 20 get second fork
+1367 ms philosopher 20 eating
+1812 ms philosopher 20 put first fork
+1812 ms philosopher 20 put second fork
+1812 ms philosopher 20 sleeing
+2041 ms philosopher 20 thinking
+2041 ms philosopher 20 get first fork 
+2041 ms philosopher 20 get second fork
+2041 ms philosopher 20 eating
+2795 ms philosopher 20 put first fork
+2795 ms philosopher 20 put second fork
+2795 ms philosopher 20 sleeing
+2995 ms philosopher 20 thinking
+3056 ms philosopher 20 get first fork 
+3174 ms philosopher 20 dead--------------
+99 ms philosopher 21 get first fork 
+99 ms philosopher 21 get second fork
+99 ms philosopher 21 eating
+541 ms philosopher 21 put first fork
+541 ms philosopher 21 put second fork
+541 ms philosopher 21 sleeing
+741 ms philosopher 21 thinking
+741 ms philosopher 21 get first fork 
+741 ms philosopher 21 get second fork
+741 ms philosopher 21 eating
+1167 ms philosopher 21 put first fork
+1167 ms philosopher 21 put second fork
+1167 ms philosopher 21 sleeing
+1367 ms philosopher 21 thinking
+1367 ms philosopher 21 get first fork 
+1367 ms philosopher 21 get second fork
+1367 ms philosopher 21 eating
+1813 ms philosopher 21 put first fork
+1813 ms philosopher 21 put second fork
+1813 ms philosopher 21 sleeing
+2018 ms philosopher 21 thinking
+2023 ms philosopher 21 get first fork 
+2023 ms philosopher 21 get second fork
+2023 ms philosopher 21 eating
+2795 ms philosopher 21 put first fork
+2795 ms philosopher 21 put second fork
+2795 ms philosopher 21 sleeing
+2995 ms philosopher 21 thinking
+3056 ms philosopher 21 get first fork 
+3176 ms philosopher 21 dead--------------
+100 ms philosopher 22 get first fork 
+100 ms philosopher 22 get second fork
+100 ms philosopher 22 eating
+542 ms philosopher 22 put first fork
+542 ms philosopher 22 put second fork
+542 ms philosopher 22 sleeing
+743 ms philosopher 22 thinking
+743 ms philosopher 22 get first fork 
+743 ms philosopher 22 get second fork
+743 ms philosopher 22 eating
+1167 ms philosopher 22 put first fork
+1167 ms philosopher 22 put second fork
+1167 ms philosopher 22 sleeing
+1367 ms philosopher 22 thinking
+1367 ms philosopher 22 get first fork 
+1367 ms philosopher 22 get second fork
+1367 ms philosopher 22 eating
+1813 ms philosopher 22 put first fork
+1813 ms philosopher 22 put second fork
+1813 ms philosopher 22 sleeing
+2041 ms philosopher 22 thinking
+2041 ms philosopher 22 get first fork 
+2041 ms philosopher 22 get second fork
+2041 ms philosopher 22 eating
+2795 ms philosopher 22 put first fork
+2795 ms philosopher 22 put second fork
+2795 ms philosopher 22 sleeing
+2995 ms philosopher 22 thinking
+3056 ms philosopher 22 get first fork 
+3176 ms philosopher 22 dead--------------
+111 ms philosopher 26 get first fork 
+111 ms philosopher 26 get second fork
+111 ms philosopher 26 eating
+541 ms philosopher 26 put first fork
+541 ms philosopher 26 put second fork
+541 ms philosopher 26 sleeing
+742 ms philosopher 26 thinking
+742 ms philosopher 26 get first fork 
+742 ms philosopher 26 get second fork
+742 ms philosopher 26 eating
+1152 ms philosopher 26 put first fork
+1152 ms philosopher 26 put second fork
+1152 ms philosopher 26 sleeing
+1353 ms philosopher 26 thinking
+1353 ms philosopher 26 get first fork 
+1353 ms philosopher 26 get second fork
+1353 ms philosopher 26 eating
+1813 ms philosopher 26 put first fork
+1813 ms philosopher 26 put second fork
+1813 ms philosopher 26 sleeing
+2029 ms philosopher 26 thinking
+2029 ms philosopher 26 get first fork 
+2034 ms philosopher 26 get second fork
+2034 ms philosopher 26 eating
+2794 ms philosopher 26 put first fork
+2794 ms philosopher 26 put second fork
+2794 ms philosopher 26 sleeing
+2994 ms philosopher 26 thinking
+3056 ms philosopher 26 get first fork 
+3183 ms philosopher 26 dead--------------
+110 ms philosopher 25 get first fork 
+110 ms philosopher 25 get second fork
+110 ms philosopher 25 eating
+542 ms philosopher 25 put first fork
+542 ms philosopher 25 put second fork
+542 ms philosopher 25 sleeing
+742 ms philosopher 25 thinking
+742 ms philosopher 25 get first fork 
+742 ms philosopher 25 get second fork
+742 ms philosopher 25 eating
+1167 ms philosopher 25 put first fork
+1167 ms philosopher 25 put second fork
+1167 ms philosopher 25 sleeing
+1368 ms philosopher 25 thinking
+1368 ms philosopher 25 get first fork 
+1368 ms philosopher 25 get second fork
+1368 ms philosopher 25 eating
+1813 ms philosopher 25 put first fork
+1813 ms philosopher 25 put second fork
+1813 ms philosopher 25 sleeing
+2041 ms philosopher 25 thinking
+2041 ms philosopher 25 get first fork 
+2041 ms philosopher 25 get second fork
+2041 ms philosopher 25 eating
+2794 ms philosopher 25 put first fork
+2794 ms philosopher 25 put second fork
+2794 ms philosopher 25 sleeing
+2994 ms philosopher 25 thinking
+3056 ms philosopher 25 get first fork 
+3184 ms philosopher 25 dead--------------
+136 ms philosopher 35 get first fork 
+136 ms philosopher 35 get second fork
+136 ms philosopher 35 eating
+542 ms philosopher 35 put first fork
+542 ms philosopher 35 put second fork
+542 ms philosopher 35 sleeing
+742 ms philosopher 35 thinking
+742 ms philosopher 35 get first fork 
+742 ms philosopher 35 get second fork
+742 ms philosopher 35 eating
+1166 ms philosopher 35 put first fork
+1166 ms philosopher 35 put second fork
+1166 ms philosopher 35 sleeing
+1367 ms philosopher 35 thinking
+1367 ms philosopher 35 get first fork 
+1367 ms philosopher 35 get second fork
+1367 ms philosopher 35 eating
+1813 ms philosopher 35 put first fork
+1813 ms philosopher 35 put second fork
+1813 ms philosopher 35 sleeing
+2041 ms philosopher 35 thinking
+2041 ms philosopher 35 get first fork 
+2041 ms philosopher 35 get second fork
+2041 ms philosopher 35 eating
+2794 ms philosopher 35 put first fork
+2794 ms philosopher 35 put second fork
+2794 ms philosopher 35 sleeing
+2994 ms philosopher 35 thinking
+3056 ms philosopher 35 get first fork 
+3194 ms philosopher 35 dead--------------
+150 ms philosopher 39 get first fork 
+150 ms philosopher 39 get second fork
+150 ms philosopher 39 eating
+542 ms philosopher 39 put first fork
+542 ms philosopher 39 put second fork
+542 ms philosopher 39 sleeing
+743 ms philosopher 39 thinking
+743 ms philosopher 39 get first fork 
+743 ms philosopher 39 get second fork
+743 ms philosopher 39 eating
+1167 ms philosopher 39 put first fork
+1167 ms philosopher 39 put second fork
+1167 ms philosopher 39 sleeing
+1367 ms philosopher 39 thinking
+1367 ms philosopher 39 get first fork 
+1367 ms philosopher 39 get second fork
+1367 ms philosopher 39 eating
+1813 ms philosopher 39 put first fork
+1813 ms philosopher 39 put second fork
+1813 ms philosopher 39 sleeing
+2041 ms philosopher 39 thinking
+2041 ms philosopher 39 get first fork 
+2041 ms philosopher 39 get second fork
+2041 ms philosopher 39 eating
+2796 ms philosopher 39 put first fork
+2796 ms philosopher 39 put second fork
+2798 ms philosopher 39 sleeing
+3054 ms philosopher 39 thinking
+3056 ms philosopher 39 get first fork 
+3195 ms philosopher 39 dead--------------
+552 ms philosopher 69 get first fork 
+552 ms philosopher 69 get second fork
+552 ms philosopher 69 eating
+1168 ms philosopher 69 put first fork
+1168 ms philosopher 69 put second fork
+1168 ms philosopher 69 sleeing
+1369 ms philosopher 69 thinking
+1369 ms philosopher 69 get first fork 
+1369 ms philosopher 69 get second fork
+1369 ms philosopher 69 eating
+1813 ms philosopher 69 put first fork
+1813 ms philosopher 69 put second fork
+1813 ms philosopher 69 sleeing
+2041 ms philosopher 69 thinking
+2041 ms philosopher 69 get first fork 
+2041 ms philosopher 69 get second fork
+2041 ms philosopher 69 eating
+2916 ms philosopher 69 put first fork
+2916 ms philosopher 69 put second fork
+2916 ms philosopher 69 sleeing
+3116 ms philosopher 69 thinking
+3205 ms philosopher 69 dead--------------
+562 ms philosopher 71 get first fork 
+562 ms philosopher 71 get second fork
+562 ms philosopher 71 eating
+1167 ms philosopher 71 put first fork
+1167 ms philosopher 71 put second fork
+1167 ms philosopher 71 sleeing
+1368 ms philosopher 71 thinking
+1368 ms philosopher 71 get first fork 
+1368 ms philosopher 71 get second fork
+1368 ms philosopher 71 eating
+1813 ms philosopher 71 put first fork
+1813 ms philosopher 71 put second fork
+1813 ms philosopher 71 sleeing
+2041 ms philosopher 71 thinking
+2041 ms philosopher 71 get first fork 
+2041 ms philosopher 71 get second fork
+2041 ms philosopher 71 eating
+2916 ms philosopher 71 put first fork
+2916 ms philosopher 71 put second fork
+2916 ms philosopher 71 sleeing
+3118 ms philosopher 71 thinking
+3207 ms philosopher 71 dead--------------
+572 ms philosopher 72 get first fork 
+572 ms philosopher 72 get second fork
+572 ms philosopher 72 eating
+1152 ms philosopher 72 put first fork
+1152 ms philosopher 72 put second fork
+1152 ms philosopher 72 sleeing
+1353 ms philosopher 72 thinking
+1353 ms philosopher 72 get first fork 
+1353 ms philosopher 72 get second fork
+1353 ms philosopher 72 eating
+1813 ms philosopher 72 put first fork
+1813 ms philosopher 72 put second fork
+1813 ms philosopher 72 sleeing
+2041 ms philosopher 72 thinking
+2041 ms philosopher 72 get first fork 
+2041 ms philosopher 72 get second fork
+2041 ms philosopher 72 eating
+2916 ms philosopher 72 put first fork
+2916 ms philosopher 72 put second fork
+2916 ms philosopher 72 sleeing
+3118 ms philosopher 72 thinking
+3207 ms philosopher 72 dead--------------
+602 ms philosopher 75 get first fork 
+602 ms philosopher 75 get second fork
+602 ms philosopher 75 eating
+1152 ms philosopher 75 put first fork
+1152 ms philosopher 75 put second fork
+1152 ms philosopher 75 sleeing
+1352 ms philosopher 75 thinking
+1352 ms philosopher 75 get first fork 
+1352 ms philosopher 75 get second fork
+1352 ms philosopher 75 eating
+1826 ms philosopher 75 put first fork
+1826 ms philosopher 75 put second fork
+1826 ms philosopher 75 sleeing
+2041 ms philosopher 75 thinking
+2056 ms philosopher 75 get first fork 
+2166 ms philosopher 75 get second fork
+2166 ms philosopher 75 eating
+3056 ms philosopher 75 put first fork
+3056 ms philosopher 75 put second fork
+3056 ms philosopher 75 sleeing
+3207 ms philosopher 75 dead--------------
+618 ms philosopher 77 get first fork 
+618 ms philosopher 77 get second fork
+618 ms philosopher 77 eating
+1101 ms philosopher 77 put first fork
+1101 ms philosopher 77 put second fork
+1101 ms philosopher 77 sleeing
+1304 ms philosopher 77 thinking
+1304 ms philosopher 77 get first fork 
+1304 ms philosopher 77 get second fork
+1304 ms philosopher 77 eating
+1854 ms philosopher 77 put first fork
+1854 ms philosopher 77 put second fork
+1854 ms philosopher 77 sleeing
+2055 ms philosopher 77 thinking
+2166 ms philosopher 77 get first fork 
+2166 ms philosopher 77 get second fork
+2166 ms philosopher 77 eating
+3056 ms philosopher 77 put first fork
+3056 ms philosopher 77 put second fork
+3056 ms philosopher 77 sleeing
+3207 ms philosopher 77 dead--------------
+1169 ms philosopher 103 get first fork 
+1169 ms philosopher 103 get second fork
+1169 ms philosopher 103 eating
+1874 ms philosopher 103 put first fork
+1874 ms philosopher 103 put second fork
+1874 ms philosopher 103 sleeing
+2166 ms philosopher 103 thinking
+2166 ms philosopher 103 get first fork 
+2166 ms philosopher 103 get second fork
+2166 ms philosopher 103 eating
+3056 ms philosopher 103 put first fork
+3056 ms philosopher 103 put second fork
+3056 ms philosopher 103 sleeing
+3226 ms philosopher 103 dead--------------
+1194 ms philosopher 107 get first fork 
+1194 ms philosopher 107 get second fork
+1194 ms philosopher 107 eating
+1824 ms philosopher 107 put first fork
+1824 ms philosopher 107 put second fork
+1824 ms philosopher 107 sleeing
+2041 ms philosopher 107 thinking
+2054 ms philosopher 107 get first fork 
+2166 ms philosopher 107 get second fork
+2166 ms philosopher 107 eating
+3126 ms philosopher 107 put first fork
+3126 ms philosopher 107 put second fork
+3126 ms philosopher 107 sleeing
+3226 ms philosopher 107 dead--------------
+1179 ms philosopher 104 get first fork 
+1179 ms philosopher 104 get second fork
+1179 ms philosopher 104 eating
+1826 ms philosopher 104 put first fork
+1826 ms philosopher 104 put second fork
+1826 ms philosopher 104 sleeing
+2041 ms philosopher 104 thinking
+2055 ms philosopher 104 get first fork 
+2166 ms philosopher 104 get second fork
+2166 ms philosopher 104 eating
+3056 ms philosopher 104 put first fork
+3056 ms philosopher 104 put second fork
+3056 ms philosopher 104 sleeing
+3237 ms philosopher 104 dead--------------
+640 ms philosopher 79 get first fork 
+640 ms philosopher 79 get second fork
+640 ms philosopher 79 eating
+840 ms philosopher 79 put first fork
+840 ms philosopher 79 put second fork
+840 ms philosopher 79 sleeing
+1111 ms philosopher 79 thinking
+1111 ms philosopher 79 get first fork 
+1111 ms philosopher 79 get second fork
+1111 ms philosopher 79 eating
+1822 ms philosopher 79 put first fork
+1822 ms philosopher 79 put second fork
+1822 ms philosopher 79 sleeing
+2041 ms philosopher 79 thinking
+2041 ms philosopher 79 get first fork 
+2041 ms philosopher 79 get second fork
+2041 ms philosopher 79 eating
+2794 ms philosopher 79 put first fork
+2794 ms philosopher 79 put second fork
+2794 ms philosopher 79 sleeing
+2995 ms philosopher 79 thinking
+3056 ms philosopher 79 get first fork 
+3207 ms philosopher 79 get second fork
+3207 ms philosopher 79 eating
+2875 ms philosopher 79 dead--------------
+1155 ms philosopher 99 get first fork 
+1155 ms philosopher 99 get second fork
+1155 ms philosopher 99 eating
+1824 ms philosopher 99 put first fork
+1824 ms philosopher 99 put second fork
+1824 ms philosopher 99 sleeing
+2041 ms philosopher 99 thinking
+2055 ms philosopher 99 get first fork 
+2166 ms philosopher 99 get second fork
+2166 ms philosopher 99 eating
+3166 ms philosopher 99 put first fork
+3166 ms philosopher 99 put second fork
+3166 ms philosopher 99 sleeing
+3174 ms philosopher 99 dead--------------
+612 ms philosopher 76 get first fork 
+612 ms philosopher 76 get second fork
+612 ms philosopher 76 eating
+1112 ms philosopher 76 put first fork
+1112 ms philosopher 76 put second fork
+1112 ms philosopher 76 sleeing
+1314 ms philosopher 76 thinking
+1314 ms philosopher 76 get first fork 
+1314 ms philosopher 76 get second fork
+1314 ms philosopher 76 eating
+1854 ms philosopher 76 put first fork
+1854 ms philosopher 76 put second fork
+1854 ms philosopher 76 sleeing
+2055 ms philosopher 76 thinking
+2166 ms philosopher 76 get first fork 
+2166 ms philosopher 76 get second fork
+2166 ms philosopher 76 eating
+3056 ms philosopher 76 put first fork
+3056 ms philosopher 76 put second fork
+3056 ms philosopher 76 sleeing
+3207 ms philosopher 76 dead--------------
+89 ms philosopher 18 get first fork 
+89 ms philosopher 18 get second fork
+89 ms philosopher 18 eating
+289 ms philosopher 18 put first fork
+289 ms philosopher 18 put second fork
+289 ms philosopher 18 sleeing
+542 ms philosopher 18 thinking
+542 ms philosopher 18 get first fork 
+542 ms philosopher 18 get second fork
+542 ms philosopher 18 eating
+742 ms philosopher 18 put first fork
+742 ms philosopher 18 put second fork
+742 ms philosopher 18 sleeing
+1111 ms philosopher 18 thinking
+1111 ms philosopher 18 get first fork 
+1111 ms philosopher 18 get second fork
+1111 ms philosopher 18 eating
+1813 ms philosopher 18 put first fork
+1813 ms philosopher 18 put second fork
+1813 ms philosopher 18 sleeing
+2041 ms philosopher 18 thinking
+2041 ms philosopher 18 get first fork 
+2041 ms philosopher 18 get second fork
+2041 ms philosopher 18 eating
+2794 ms philosopher 18 put first fork
+2794 ms philosopher 18 put second fork
+2794 ms philosopher 18 sleeing
+2995 ms philosopher 18 thinking
+3056 ms philosopher 18 get first fork 
+3207 ms philosopher 18 dead--------------
+629 ms philosopher 78 get first fork 
+629 ms philosopher 78 get second fork
+629 ms philosopher 78 eating
+829 ms philosopher 78 put first fork
+829 ms philosopher 78 put second fork
+829 ms philosopher 78 sleeing
+1101 ms philosopher 78 thinking
+1101 ms philosopher 78 get first fork 
+1101 ms philosopher 78 get second fork
+1101 ms philosopher 78 eating
+1433 ms philosopher 78 put first fork
+1433 ms philosopher 78 put second fork
+1433 ms philosopher 78 sleeing
+1634 ms philosopher 78 thinking
+1734 ms philosopher 78 get first fork 
+1764 ms philosopher 78 get second fork
+1764 ms philosopher 78 eating
+2056 ms philosopher 78 put first fork
+2056 ms philosopher 78 put second fork
+2056 ms philosopher 78 sleeing
+2257 ms philosopher 78 thinking
+2356 ms philosopher 78 get first fork 
+2432 ms philosopher 78 get second fork
+2432 ms philosopher 78 eating
+3056 ms philosopher 78 put first fork
+3056 ms philosopher 78 put second fork
+3056 ms philosopher 78 sleeing
+3271 ms philosopher 78 dead--------------
+2166 ms philosopher 137 get first fork 
+2166 ms philosopher 137 get second fork
+2166 ms philosopher 137 eating
+3089 ms philosopher 137 put first fork
+3089 ms philosopher 137 put second fork
+3089 ms philosopher 137 sleeing
+3291 ms philosopher 137 thinking
+3291 ms philosopher 137 dead--------------
+731 ms philosopher 81 get first fork 
+731 ms philosopher 81 get second fork
+731 ms philosopher 81 eating
+1168 ms philosopher 81 put first fork
+1168 ms philosopher 81 put second fork
+1168 ms philosopher 81 sleeing
+1368 ms philosopher 81 thinking
+1368 ms philosopher 81 get first fork 
+1368 ms philosopher 81 get second fork
+1368 ms philosopher 81 eating
+1813 ms philosopher 81 put first fork
+1813 ms philosopher 81 put second fork
+1813 ms philosopher 81 sleeing
+2041 ms philosopher 81 thinking
+2054 ms philosopher 81 get first fork 
+2166 ms philosopher 81 get second fork
+2166 ms philosopher 81 eating
+3068 ms philosopher 81 put first fork
+3089 ms philosopher 81 put second fork
+3089 ms philosopher 81 sleeing
+3291 ms philosopher 81 thinking
+3291 ms philosopher 81 dead--------------
+1166 ms philosopher 102 get first fork 
+1166 ms philosopher 102 get second fork
+1166 ms philosopher 102 eating
+1881 ms philosopher 102 put first fork
+1881 ms philosopher 102 put second fork
+1881 ms philosopher 102 sleeing
+2166 ms philosopher 102 thinking
+2166 ms philosopher 102 get first fork 
+2166 ms philosopher 102 get second fork
+2166 ms philosopher 102 eating
+3056 ms philosopher 102 put first fork
+3056 ms philosopher 102 put second fork
+3056 ms philosopher 102 sleeing
+3291 ms philosopher 102 thinking
+3292 ms philosopher 102 dead--------------
+1164 ms philosopher 101 get first fork 
+1164 ms philosopher 101 get second fork
+1164 ms philosopher 101 eating
+1881 ms philosopher 101 put first fork
+1881 ms philosopher 101 put second fork
+1881 ms philosopher 101 sleeing
+2166 ms philosopher 101 thinking
+2166 ms philosopher 101 get first fork 
+2167 ms philosopher 101 get second fork
+2167 ms philosopher 101 eating
+3056 ms philosopher 101 put first fork
+3056 ms philosopher 101 put second fork
+3056 ms philosopher 101 sleeing
+3291 ms philosopher 101 thinking
+3292 ms philosopher 101 dead--------------
+794 ms philosopher 84 get first fork 
+794 ms philosopher 84 get second fork
+794 ms philosopher 84 eating
+1461 ms philosopher 84 put first fork
+1461 ms philosopher 84 put second fork
+1461 ms philosopher 84 sleeing
+1661 ms philosopher 84 thinking
+1764 ms philosopher 84 get first fork 
+1766 ms philosopher 84 get second fork
+1766 ms philosopher 84 eating
+2055 ms philosopher 84 put first fork
+2055 ms philosopher 84 put second fork
+2055 ms philosopher 84 sleeing
+2256 ms philosopher 84 thinking
+2356 ms philosopher 84 get first fork 
+2432 ms philosopher 84 get second fork
+2432 ms philosopher 84 eating
+3207 ms philosopher 84 put first fork
+3207 ms philosopher 84 put second fork
+3207 ms philosopher 84 sleeing
+3322 ms philosopher 84 dead--------------
+792 ms philosopher 82 get first fork 
+792 ms philosopher 82 get second fork
+792 ms philosopher 82 eating
+1461 ms philosopher 82 put first fork
+1461 ms philosopher 82 put second fork
+1461 ms philosopher 82 sleeing
+1661 ms philosopher 82 thinking
+1764 ms philosopher 82 get first fork 
+1766 ms philosopher 82 get second fork
+1766 ms philosopher 82 eating
+1988 ms philosopher 82 put first fork
+1988 ms philosopher 82 put second fork
+1988 ms philosopher 82 sleeing
+2188 ms philosopher 82 thinking
+2321 ms philosopher 82 get first fork 
+2396 ms philosopher 82 get second fork
+2396 ms philosopher 82 eating
+3225 ms philosopher 82 put first fork
+3225 ms philosopher 82 put second fork
+3225 ms philosopher 82 sleeing
+3322 ms philosopher 82 dead--------------
+795 ms philosopher 85 get first fork 
+795 ms philosopher 85 get second fork
+795 ms philosopher 85 eating
+1455 ms philosopher 85 put first fork
+1455 ms philosopher 85 put second fork
+1455 ms philosopher 85 sleeing
+1657 ms philosopher 85 thinking
+1764 ms philosopher 85 get first fork 
+1765 ms philosopher 85 get second fork
+1765 ms philosopher 85 eating
+2041 ms philosopher 85 put first fork
+2041 ms philosopher 85 put second fork
+2041 ms philosopher 85 sleeing
+2241 ms philosopher 85 thinking
+2341 ms philosopher 85 get first fork 
+2396 ms philosopher 85 get second fork
+2396 ms philosopher 85 eating
+3055 ms philosopher 85 put first fork
+3055 ms philosopher 85 put second fork
+3055 ms philosopher 85 sleeing
+3291 ms philosopher 85 thinking
+3322 ms philosopher 85 dead--------------
+804 ms philosopher 87 get first fork 
+804 ms philosopher 87 get second fork
+804 ms philosopher 87 eating
+1457 ms philosopher 87 put first fork
+1457 ms philosopher 87 put second fork
+1457 ms philosopher 87 sleeing
+1657 ms philosopher 87 thinking
+1764 ms philosopher 87 get first fork 
+1766 ms philosopher 87 get second fork
+1766 ms philosopher 87 eating
+2055 ms philosopher 87 put first fork
+2055 ms philosopher 87 put second fork
+2055 ms philosopher 87 sleeing
+2255 ms philosopher 87 thinking
+2342 ms philosopher 87 get first fork 
+2397 ms philosopher 87 get second fork
+2397 ms philosopher 87 eating
+3055 ms philosopher 87 put first fork
+3055 ms philosopher 87 put second fork
+3055 ms philosopher 87 sleeing
+3291 ms philosopher 87 thinking
+3322 ms philosopher 87 dead--------------
+1462 ms philosopher 113 get first fork 
+1462 ms philosopher 113 get second fork
+1462 ms philosopher 113 eating
+1983 ms philosopher 113 put first fork
+1983 ms philosopher 113 put second fork
+1983 ms philosopher 113 sleeing
+2183 ms philosopher 113 thinking
+2183 ms philosopher 113 get first fork 
+2183 ms philosopher 113 get second fork
+2183 ms philosopher 113 eating
+3054 ms philosopher 113 put first fork
+3054 ms philosopher 113 put second fork
+3054 ms philosopher 113 sleeing
+3291 ms philosopher 113 thinking
+3332 ms philosopher 113 dead--------------
+73 ms philosopher 12 get first fork 
+73 ms philosopher 12 get second fork
+73 ms philosopher 12 eating
+273 ms philosopher 12 put first fork
+273 ms philosopher 12 put second fork
+273 ms philosopher 12 sleeing
+517 ms philosopher 12 thinking
+517 ms philosopher 12 get first fork 
+517 ms philosopher 12 get second fork
+517 ms philosopher 12 eating
+718 ms philosopher 12 put first fork
+718 ms philosopher 12 put second fork
+718 ms philosopher 12 sleeing
+919 ms philosopher 12 thinking
+919 ms philosopher 12 get first fork 
+919 ms philosopher 12 get second fork
+919 ms philosopher 12 eating
+1119 ms philosopher 12 put first fork
+1119 ms philosopher 12 put second fork
+1119 ms philosopher 12 sleeing
+1321 ms philosopher 12 thinking
+1321 ms philosopher 12 get first fork 
+1321 ms philosopher 12 get second fork
+1321 ms philosopher 12 eating
+1826 ms philosopher 12 put first fork
+1826 ms philosopher 12 put second fork
+1826 ms philosopher 12 sleeing
+2041 ms philosopher 12 thinking
+2054 ms philosopher 12 get first fork 
+2166 ms philosopher 12 get second fork
+2166 ms philosopher 12 eating
+3056 ms philosopher 12 put first fork
+3056 ms philosopher 12 put second fork
+3056 ms philosopher 12 sleeing
+3291 ms philosopher 12 thinking
+3332 ms philosopher 12 dead--------------
+3292 ms philosopher 102 get first fork 
