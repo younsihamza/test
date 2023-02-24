@@ -15,10 +15,9 @@
 void	*todo(t_ph *p)
 {
 	struct timeval	end;
-	// gettimeofday(&end, NULL);
-	// p->start = (end.tv_sec * 1000000 + end.tv_usec );
+
 	if (p->i % 2)
-		usleep(100);
+		sleep_time(10);
 	while (1)
 	{
 		get_forks(p);
@@ -26,8 +25,10 @@ void	*todo(t_ph *p)
 		put_forks(p);
 		ft_sleep(p);
 		gettimeofday(&end, NULL);
+		pthread_mutex_lock(&p->print[0]);
 		printf("%ld ms philosopher %d is thinking \n",
 			((end.tv_sec * 1000000 + end.tv_usec - p->start) / 1000), p->i + 1);
+		pthread_mutex_unlock(&p->print[0]);
 	}
 }
 
@@ -36,9 +37,8 @@ int	mutex_alloc(t_var *v)
 	int	i;
 
 	i = 0;
-	gettimeofday(&v->start, NULL);
-	v->hold = v->start.tv_sec * 1000000 + v->start.tv_usec;
 	v->phi = malloc(sizeof(t_ph) * v->number_of_philosopher);
+	pthread_mutex_init(&v->print, NULL);
 	v->fork = malloc(sizeof(pthread_mutex_t) * v->number_of_philosopher);
 	if (!v->fork || !v->phi)
 		return (1);
@@ -47,6 +47,7 @@ int	mutex_alloc(t_var *v)
 		if (pthread_mutex_init(&v->fork[i], NULL) != 0)
 			return (write(2, "ERROR : mutex int feild\n", 24));
 		v->phi[i].fork = v->fork;
+		v->phi[i].print = &v->print;
 		v->phi[i].number_of_time_to_eat = 0;
 		v->phi[i].number_of_philo = v->number_of_philosopher;
 		v->phi[i].i = i;
@@ -82,15 +83,15 @@ int	create_thread_detach(t_var *v)
 	return (0);
 }
 
-int 	argument(t_var *v)
+int	argument(t_var *v)
 {
-	if(check_arg(v->argv))
-		return 1;
+	if (check_arg(v->argv))
+		return (1);
 	v->time_to_sleep = ft_atoi(v->argv[4]);
 	v->time_to_eat = ft_atoi(v->argv[3]);
 	v->time_to_die = ft_atoi(v->argv[2]);
 	v->number_of_philosopher = ft_atoi(v->argv[1]);
-	return(0);
+	return (0);
 }
 
 int	main(int argc, char **argv)
@@ -102,10 +103,12 @@ int	main(int argc, char **argv)
 		return (0);
 	if (argc == 6)
 		v.number_of_time_to_eat = ft_atoi(argv[5]);
-	if(argument(&v))
-		return(0);
+	if (argument(&v))
+		return (0);
 	if (v.number_of_philosopher <= 0)
 		return (0);
+	gettimeofday(&v.start, NULL);
+	v.hold = v.start.tv_sec * 1000000 + v.start.tv_usec;
 	if (mutex_alloc(&v) != 0)
 		return (0);
 	if (create_thread_detach(&v) != 0)

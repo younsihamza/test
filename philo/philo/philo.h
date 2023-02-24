@@ -33,6 +33,7 @@ typedef struct ph
 	int				time_to_sleep;
 	int				argc;
 	pthread_mutex_t	*fork;
+	pthread_mutex_t	*print;
 	int				i;
 }t_ph;
 
@@ -45,6 +46,7 @@ typedef struct var
 	int				time_to_sleep;
 	char			**argv;
 	pthread_mutex_t	*fork;
+	pthread_mutex_t	print;
 	struct timeval	start;
 	t_ph			*phi;
 	long			hold;
@@ -58,5 +60,5 @@ void	eat(t_ph *p);
 void	ft_sleep(t_ph *p);
 int		check_d_e(t_var *v, int argc);
 int		check_arg(char **argv);
-
+void	sleep_time(int time);
 #endif

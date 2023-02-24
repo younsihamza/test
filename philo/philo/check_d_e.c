@@ -39,25 +39,39 @@ int	check_d_e(t_var *v, int argc)
 	return (0);
 }
 
-int check_arg(char **argv)
+int	check_arg(char **argv)
 {
-	
-	int i;
-	int j;
+	int	i;
+	int	j;
+
 	i = 1;
-	while(argv[i])
+	while (argv[i])
 	{
 		j = 0;
-		while(argv[i][j])
+		while (argv[i][j])
 		{
-			if(argv[i][j] < '0' || argv[i][j] > '9')
-				{
-					printf("argument not valide\n");
-					return(1);
-				}
+			if (argv[i][j] < '0' || argv[i][j] > '9')
+			{
+				printf("argument not valide\n");
+				return (1);
+			}
 			j++;
 		}
 		i++;
 	}
-	return(0);
+	return (0);
+}
+
+void	sleep_time(int time)
+{
+	struct timeval	end;
+	long			g;
+
+	gettimeofday(&end, NULL);
+	g = (end.tv_sec * 1000000 + end.tv_usec);
+	while ((end.tv_sec * 1000000 + end.tv_usec - g) / 1000 < time)
+	{
+		usleep(1 * 1000);
+		gettimeofday(&end, NULL);
+	}
 }

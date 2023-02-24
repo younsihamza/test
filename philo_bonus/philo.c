@@ -67,7 +67,7 @@ void eat(t_ph *phi)
     printf("%ld ms philosopher %d eating\n",((time.tv_sec * 1000000 + time.tv_usec)/1000) - phi->start_time,phi->i +1);
     while(((time.tv_sec * 1000000 + time.tv_usec - tmp)/1000) < phi->time_to_eat)
     {
-        usleep(10);
+        //usleep(10);
         gettimeofday(&time,NULL);
     }
 }
@@ -90,15 +90,21 @@ void ft_sleep(t_ph *phi)
     printf("%ld ms philosopher %d sleeing\n",((time.tv_sec * 1000000 + time.tv_usec)/1000) - phi->start_time,phi->i +1);
     while(((time.tv_sec * 1000000 + time.tv_usec - tmp)/1000) < phi->time_to_sleep)
     {
-        usleep(1000);
+        //usleep(1000);
         gettimeofday(&time,NULL);
     }
 }
 void  test(t_ph *phi)
 {
     struct timeval time;
+    int j = 0;
      if(phi->i%2)
-            usleep(100);
+     {
+        while(++j<2000)
+        {
+            usleep(1);
+        }
+     }
            while(1)
             {
                 get_fork(phi);
@@ -121,7 +127,7 @@ void todo(t_ph *phi)
         gettimeofday(&courent,NULL);
             if((((courent.tv_sec * 1000000 + courent.tv_usec) - phi->last_time_eat) / 1000) > phi->time_to_die)
             {
-                printf("%ld ms philosopher %d dead--------------\n",((courent.tv_sec * 1000000 + courent.tv_usec) - phi->start_time*1000) / 1000,phi->i +1);
+                printf("%ld ms philosopher %d -------------------dead--------------\n",((courent.tv_sec * 1000000 + courent.tv_usec) - phi->start_time*1000) / 1000,phi->i +1);
                 exit(0);
             }
             if(phi->argc == 6)
