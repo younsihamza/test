@@ -1,0 +1,107 @@
+-------------------------------------------------What is a Thread?----------------------------------
+
+    Let us take an example of a human body. A human body has different parts having different 
+    functionalities which are working parallelly ( Eg: Eyes, ears, hands, etc). Similarly in computers,
+    a single process might have multiple functionalities running parallelly where each functionality can be considered as a thread.
+
+---------------------------------------------What is Thread in OS?-----------------------------------
+    Thread is a sequential flow of tasks within a process. Threads in OS can be of the same or different types.
+    Threads are used to increase the performance of the applications.Each thread has its own program counter, stack,
+    and set of registers. But the threads of a single process might share the same code and data/file.
+    Threads are also termed as lightweight processes as they share common resources.
+
+------------------------------------------Types of Thread---------------------------------------
+1. User Level Thread:
+
+User-level threads are implemented and managed by the user and the kernel is not aware of it.
+
+    User-level threads are implemented using user-level libraries and the OS does not recognize these threads.
+    User-level thread is faster to create and manage compared to kernel-level thread.
+    Context switching in user-level threads is faster.
+    If one user-level thread performs a blocking operation then the entire process gets blocked. Eg: POSIX threads, Java threads, etc.
+
+2. Kernel level Thread:
+
+    Kernel level threads are implemented and managed by the OS.
+    Kernel level threads are implemented using system calls and Kernel level threads are recognized by the OS.
+    Kernel-level threads are slower to create and manage compared to user-level threads.
+    Context switching in a kernel-level thread is slower.
+    Even if one kernel-level thread performs a blocking operation, it does not affect other threads. Eg: Window Solaris.
+
+------------------------------------------How Mutex Work ?----------------------------------------------------------
+
+    A mutex (short for "mutual exclusion") is a synchronization mechanism that ensures that only one thread of execution 
+    can access a shared resource at a time. When a thread wants to access the shared resource, it must first "acquire" the mutex.
+    If the mutex is already acquired by another thread, the requesting thread will be blocked until the mutex is released.
+    Once a thread has acquired the mutex, it can access the shared resource and perform its operation. When it is done,
+    it releases the mutex, which allows other threads to acquire it and access the shared resource. 
+    This process of acquiring and releasing the mutex ensures that only one thread can access the shared resource at a time,
+    preventing race conditions and other synchronization issues.
+
+------------------------------------------------How pthread_detach work ?-----------------------------------------------
+     The pthread_detach() function is used to indicate to your application that storage for the thread tid can be reclaimed 
+     when the thread terminates. Threads should be detached when they are no longer needed. If tid has not terminated, 
+     pthread_detach() does not cause the thread to terminate.
+
+--------------------------------------------new function can we use in this project--------------------------------------
+
+    1 - The pthread_create() :
+            function is used to create a new thread.
+    2 - The pthread_join() :
+            function provides a simple mechanism allowing an application to wait for a thread to terminate.
+            After the thread terminates, the application may then choose to clean up resources that were used by the thread.
+    3 - The pthread_detach(): 
+            function is used to indicate to your application that storage for the thread tid can be reclaimed when the thread terminates.
+            Threads should be detached when they are no longer needed. If tid has not terminated, 
+            pthread_detach() does not cause the thread to terminate.
+    4 - The pthread_mutex_destroy(): 
+            function destroys the named mutex. The destroyed mutex can no longer be used. If pthread_mutex_destroy() is called on a mutex that
+            is locked by another thread, the request fails with an EBUSY error.
+    5 - The pthread_mutex_init() :
+            function initializes a mutex with the specified attributes for use. The new mutex may be used immediately for serializing critical resources.
+            If attr is specified as NULL, all attributes are set to the default mutex attributes for the newly created mutex.
+    6 - The pthread_mutex_lock() :
+            function acquires ownership of the mutex specified. If the mutex currently is locked by another thread,
+            the call to pthread_mutex_lock() blocks until that thread relinquishes ownership by a call to pthread_mutex_unlock().
+    7 - The pthread_mute_unlock() :
+            function unlocks the mutex specified. If the calling thread does not currently hold the mutex
+            (via a previous call to pthread_mutex_lock(), pthread_mutex_trylock(), or pthread_mutex_timedlock_np())
+            the unlock request fails with the EPERM error.
+
+------------------------------------------------what is the Race Condition ?------------------------------------------------------
+
+        A race condition is an undesirable situation that occurs when a device or system attempts to perform two or more operations at the same time,
+         but because of the nature of the device or system,the operations must be done in the proper sequence to be done correctly.
+        Race conditions are most commonly associated with computer science and programming. They occur when two computer program processes, 
+        or threads, attempt to access the same resource at the same time and cause problems in the system.
+        (https://www.techtarget.com/searchstorage/definition/race-condition);
+
+----------------------------why do we need thread ?-----------------------------------------------
+
+Threads in the operating system provide multiple benefits and improve the overall performance of the system. Some of the reasons threads are needed in the operating system are:
+
+        -Since threads use the same data and code, the operational cost between threads is low.
+        -Creating and terminating a thread is faster compared to creating or terminating a process.
+        -Context switching is faster in threads compared to processes.
+---------------------- thread comprises the following thing ------------------------------
+
+        - A thread ID: It is a unique ID of the thread that is created during the creation of the thread and it remains for the whole life of that particular thread.
+        -Program Counter: It is a value that loads into the hardware.
+        -A registered set: It is a set of general registers.
+        -A stack: It is the memory of that particular thread.
+--------------------------------------- process ------------------------------------
+
+Process The process can be defined as the series of actions that are done to execute a program.
+ When a program is run, it is not directly gets executed. It gets divided into some steps of small 
+actions and these actions get executed one by one in a systematic way which ultimately leads to the execution of a process.
+ When a process is divided into simpler actions, it is known as the " clone or child process" and the main process is the "parent" process.
+  All the processes consume 
+ some space in the memory and these spaces are not interchanged with other processes.
+
+There are some stages of a process that it gets before execution.
+
+NEW- this is the state where a new process is created.
+READY- this is the state when a process is ready and waiting for the allocation of the processor.
+RUNNING- this is the state when the process is running.
+WAITING- this is the state when the process is waiting for some event.
+TERMINATED- this is the state when the process gets executed.
